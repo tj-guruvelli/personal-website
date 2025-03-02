@@ -9,7 +9,7 @@ export default function About() {
 					<div className="flex flex-col md:flex-row gap-12">
 						<div className="md:w-1/2">
 							<Image
-								src="/imgs/IMG_5276.jpg"
+								src="/imgs/IMG_5276.JPG"
 								alt="Teja Guruvelli"
 								width={560}
 								height={660}

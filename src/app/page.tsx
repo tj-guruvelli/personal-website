@@ -34,7 +34,7 @@ export default function Home() {
 						<div className="md:w-1/2 relative z-10 flex justify-center">
 							<div className="relative w-[750px] h-[500px]">
 								<Image
-									src="/imgs/IMG_1420.jpg"
+									src="/imgs/IMG_1420.JPG"
 									alt="Teja Guruvelli"
 									fill
 									className="object-cover"
