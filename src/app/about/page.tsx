@@ -32,7 +32,7 @@ export default function About() {
 								</p>
 								<p className="mb-4">
 									When I'm not coding or studying, you can find me participating
-									in various athletic activities. I believe in maintaining a
+									in various athletic activities or enjoying the outdoors. I believe in maintaining a
 									balanced lifestyle that nurtures both mind and body.
 								</p>
 								<p>

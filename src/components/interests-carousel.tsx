@@ -14,19 +14,19 @@ const interests = [
 		title: "Weightlifting",
 		image: "/imgs/weight.jpg",
 		description:
-			"I'm always striving to build a better version of myself and it provides an outlet for stress.",
+			"Building towards the best version of myself and a great  outlet for stress.",
 	},
 	{
 		title: "Travel",
 		image: "/imgs/travel.jpeg",
 		description:
-			"I've lived in more than 10 states. Originally, I was born in India. I hope to travel more in my free time. Some places on my bucket list include Dubai, Kauai, Chicago, IL, and Hawaii",
+			"I've lived in more than 10 states. I hope to travel more in my free time. Some places on my bucket list include Dubai, Kauai, Buenos Aires, Singapore, and Hawaii",
 	},
 	{
 		title: "Music",
 		image: "/imgs/music.jpg",
 		description:
-			"I've lived in more than 10 states. Originally, I was born in India. I hope to travel more in my free time. Some places on my bucket list include Dubai, Kauai, Chicago, IL, and Hawaii",
+			"Some of my fav genres of music: Hip Hop, RnB, Trap, and some Pop. My top artists include Travis Scott, Bryson Tiller, Future, and Young Thug.",
 	},
 	{
 		title: "Cars",
