@@ -31,8 +31,8 @@ export default function Home() {
 				<div className="container mx-auto px-4">
 					<div className="flex flex-col md:flex-row items-center justify-center relative">
 						{/* Image container */}
-						<div className="md:w-1/2 relative z-10 flex justify-center">
-							<div className="relative w-[750px] h-[500px]">
+						<div className="md:w-2/3 relative z-10 flex justify-left">
+							<div className="relative w-[750px] h-[600px]">
 								<Image
 									src="/imgs/IMG_1420.JPG"
 									alt="Teja Guruvelli"

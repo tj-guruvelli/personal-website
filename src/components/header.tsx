@@ -22,19 +22,19 @@ export default function Header() {
 
           {/* Desktop navigation */}
           <nav className="hidden md:flex space-x-8">
-            <Link href="/" className="hover:text-gray-300">
+            <Link href="/" className="hover:text-gray-800">
               Home
             </Link>
-            <Link href="/about" className="hover:text-gray-300">
+            <Link href="/about" className="hover:text-gray-800">
               About
             </Link>
-            <Link href="/experiences" className="hover:text-gray-300">
+            <Link href="/experiences" className="hover:text-gray-800">
               Experiences
             </Link>
             <Link href="/interests-hobbies" className="hover:text-gray-300">
               Interests/Hobbies
             </Link>
-            <Link href="/projects" className="hover:text-gray-300">
+            <Link href="/projects" className="hover:text-gray-800">
               Projects
             </Link>
           </nav>
