@@ -14,7 +14,7 @@ export default function ProjectsPage() {
 			description:
 				"A website showcasing Mclaren using React.js, Javascript, and Tailwind CSS deployed on Vercel",
 			image: "/imgs/mclarenP1.png",
-			link: "https://trace-camp-final-project.vercel.app/",
+			link: "https://mclarenauto.vercel.app/",
 			details: [],
 		},
 		{
