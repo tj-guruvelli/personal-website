@@ -8,7 +8,7 @@ interface ExperienceCardProps {
 
 export function ExperienceCard({ title, company, description }: ExperienceCardProps) {
   return (
-    <Card className="bg-white shadow-md">
+    <Card className="bg-white transition-all duration-300 hover:shadow-lg hover:scale-105">
       <CardHeader>
         <CardTitle className="text-2xl font-bold">{title}</CardTitle>
         <p className="text-gray-600">{company}</p>

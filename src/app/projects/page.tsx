@@ -1,4 +1,5 @@
 import { ProjectCard } from "@/components/project-card";
+import Link from "next/link";
 
 export default function ProjectsPage() {
 	const projects = [
@@ -10,6 +11,48 @@ export default function ProjectsPage() {
 			details: [],
 		},
 		{
+			title: "AI Privacy & Security",
+			company: "Clemson Creative Inquiry",
+			image: "/imgs/vit.png",
+			description:
+				"Objective: Examine critical security flaws in AI systems and distinguished appropriate defenses by designing and implementing AI and machine learning systems.",
+			details: [
+				"Constructed novel neural network architectures given a project's parameters and be able to predict the effect of ML parameters on the outcome of training algorithms",
+			],
+			link: "/docs/Final.pdf",
+		},
+		{
+			title: "Administrative Console and Scheduler Scripts",
+			company: "Clemson Energy Visualization & Analytics Center (CEVAC)",
+			image: "/imgs/Power.png",
+			description:
+				"Objective: CEVAC is leading Clemson to a carbon-neutral campus.",
+			details: [
+				"Managing 500+ million records across 65 buildings for 6 metrics: steam, chilled water, natural gas, electricity, humidity, temperature, and CO2 levels etc.",
+			],
+			link: "/docs/CEVAC.pdf",
+		},
+		{
+			title: "IBM in Watson AI",
+			company: "Clemson Creative Inquiry",
+			image: "/imgs/ibm.png",
+			description:
+				"Objective: Engage in high-level discussions such as the varieties and capabilities of existing AI/ML technologies, the ethical implications of AI/ML in society, and common techniques in AI/ML",
+			details: [
+				"Conduct research career readiness/competency development using IBM Watson, Python, and other libraries such as PyTorch and Pandas with NLP to analyze open-ended survey responses from interns and their mentors",
+			],
+			link: "/docs/poster.pdf",
+		},
+		{
+			title: "Remain Healthy",
+			description:
+				"A blog post on health around COVID-19 using ArcGIS StoryMaps",
+			image: "/imgs/health.jpg",
+			link: "https://arcg.is/1PHzHj0",
+			details: [],
+		},
+
+		{
 			title: "Evolution of Mclaren",
 			description:
 				"A website showcasing Mclaren using React.js, Javascript, and Tailwind CSS deployed on Vercel",
@@ -18,7 +61,7 @@ export default function ProjectsPage() {
 			details: [],
 		},
 		{
-			title: "Website Portfolio",
+			title: "Web Dev Portfolio",
 			description:
 				"A portfolio website for a computer class for web development using HTML, CSS, javascript, and PHP",
 			image: "/imgs/web.jpg",
