@@ -3,14 +3,6 @@ import { ProjectCard } from "@/components/project-card";
 export default function ProjectsPage() {
 	const projects = [
 		{
-			title: "Scratch",
-			description:
-				"Created a multitude of projects ranging from animations to games.",
-			image: "/imgs/scratch.jpg",
-			link: "https://scratch.mit.edu/users/Innovate123/",
-			details: [],
-		},
-		{
 			title: "Github",
 			description: "Check out my work on Github",
 			image: "/imgs/github.jpg",
